@@ -3,3 +3,6 @@
 
 ## DO1 Контроль версий: Git и GitHub
 [Решение](/0_git_basics/README.md)
+
+## NP1 Использование сокетов
+[Решение](/1_echo_server/README.md)
